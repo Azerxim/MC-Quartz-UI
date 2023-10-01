@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 15,
-    "description": "§6Quartz §fUI \n§9§oVersion: §r§64.0 §4MC1.20"
+    "pack_format": 18,
+    "supported_formats": {
+       "min_inclusive": 18,
+       "max_inclusive": 18
+    },
+    "description": "§6Quartz §fUI \n§9§oVersion: §r§65.0 §4MC1.20.2"
   }
 }
