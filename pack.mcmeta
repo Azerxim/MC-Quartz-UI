@@ -3,8 +3,8 @@
     "pack_format": 18,
     "supported_formats": {
        "min_inclusive": 18,
-       "max_inclusive": 18
+       "max_inclusive": 32
     },
-    "description": "§6Quartz §fUI \n§9§oVersion: §r§65.0 §4MC1.20.2"
+    "description": "§6Quartz §fUI \n§9§oVersion: §r§65.1 §4MC1.20.6"
   }
 }
