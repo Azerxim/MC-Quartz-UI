@@ -12,5 +12,3 @@ It remains simple and quite close to the basic style.
 Ce pack modifie l'interface utilisateur (UI) de minecraft.
 
 Il reste simple et assez proche du style de base.
-
-[![Spinelle Galaxie](https://dl.topazdev.fr/stock/images/web/spinelle_galaxie.png)](https://spinelle.eu/minecraft/)
