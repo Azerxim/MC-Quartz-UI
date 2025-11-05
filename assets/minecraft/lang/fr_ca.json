@@ -6,7 +6,7 @@
   "container.dropper": "",
   "container.furnace": "",
   "container.enchant": "",
-  "container.brewing":"\u00a7f\ueff1\u00a7r              Alambic              \u00a7f\ueff2",
+  "container.brewing": "\u00a7f\ueff1\u00a7r              Alambic              \u00a7f\ueff2",
   "container.chest": "\u00a7r\u00a7fCoffre",
   "container.chestDouble": "\u00a7r\u00a7fGrand coffre",
   "container.enderchest": "\u00a7r\u00a7fCoffre de l'Ender",
@@ -28,5 +28,6 @@
   "container.grindstone_title": "",
   "container.cartography_table": "",
   "container.stonecutter": "",
-    "container.upgrade": ""
+  "container.upgrade": "",
+  "container.crafter": ""
 }
