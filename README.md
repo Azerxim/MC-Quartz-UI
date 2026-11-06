@@ -12,13 +12,14 @@ Quartz UI is a minimalist resource pack that gives Minecraft's interface a clean
 - **Whitened GUI**: menus, screens and widgets get a brighter, cleaner "quartz" palette instead of the default grey/brown tones.
 - **Vanilla-faithful layout**: no elements are moved, resized, or redesigned from scratch — it's a re-skin, not a rework, so everything stays exactly where you expect it.
 - **Consistent across the interface**: the whitened style is applied throughout the UI for a cohesive look, rather than reskinning just a single screen.
-- **Lightweight**: a pure 16x GUI-focused resource pack, easy on performance and simple to combine with other packs (textures, sounds, etc.).
+- **Rose quartz accents**: translucent, rounded white quartz panels with rose quartz engravings, highlights and button labels.
+- **Lightweight**: a pure 32x GUI-focused resource pack, easy on performance and simple to combine with other packs (textures, sounds, etc.).
 
 ## 🎨 Style
 
-- **Resolution:** 16x
+- **Resolution:** 32x
 - **Theme:** Simplistic, vanilla-like
-- **Palette:** White / off-white, clean and bright
+- **Palette:** White quartz with rose quartz accents, clean and bright
 
 ## 🕹️ How to use
 
