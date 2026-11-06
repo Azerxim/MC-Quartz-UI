@@ -32,9 +32,13 @@ Quartz UI is a minimalist resource pack that gives Minecraft's interface a clean
 |---|---|
 | **Minecraft versions** | 1.19.4 · 1.20.x · 1.21.x · 26.1.x · 26.2 · 26.3 |
 | **Type** | Resource Pack (client-side, GUI only) |
-| **License** | MIT |
+| **License** | All Rights Reserved ([details](LICENSE)) |
 | **Source** | [GitHub](https://github.com/Azerxim/MC-Quartz-UI) |
 
 ## 📥 Installation
 
 Place the downloaded file into `.minecraft/resourcepacks/`, then enable it from the in-game resource pack menu.
+
+## 📄 License
+
+Quartz UI © 2022-2026 Azerxim. All rights reserved: you may play with it, use it on servers, add it to modpacks that download it from its official page and show it in videos, but not re-upload it or share a modified version. See [LICENSE](LICENSE) for the details.
